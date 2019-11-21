@@ -1,0 +1,9 @@
+{
+  "name": "relay-network",
+  "private": false,
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:renatobenks/relay-offline.git",
+  "author": "Renato Benkendorf <renatobenkendorfs@gmail.com>",
+  "license": "MIT"
+}
