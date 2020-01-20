@@ -1,1 +1,1 @@
-# [Relay Network](https://relay-network.io) <br/> ![NPM](https://img.shields.io/npm/l/relay-network?style=flat-square)
+# [Relay Network](https://relay-network.io) <br/> [![npm version](https://badge.fury.io/js/relay-network.svg)](https://badge.fury.io/js/relay-network)
